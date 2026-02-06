@@ -1,16 +1,20 @@
-## Hi there 👋
+## :wave: Hi, I'm Hleb
+18 y.o., currently studying Digital Marketing ar BSUIR, but main passion lies in **technology** and **development**.
 
-<!--
-**akul3nok28/akul3nok28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm deeply interested in:
+- Creating interactive and functional websites
+- Processing, organizing, and interpreting data foe insights
+- Learning neural networks and AI systems
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I’m exploring different technologies and building experiments, preparing a strong foundation for my future career in tech.
+Always learning, curious, and open to challenges.
+## Tech Stack
+#### Languages
+![My Skills](https://skillicons.dev/icons?i=python,c,cpp,dart,html,css,js&theme=dark)
+#### Frameworks
+![My Skills](https://skillicons.dev/icons?i=flutter,react&theme=dark)
+#### Tools & Platforms
+![My Skills](https://skillicons.dev/icons?i=github,windows,vscode,twitter&theme=dark)
+## Projects
+- Sudoku on Dart/Flutter(ongoing...)
+## Socials
