@@ -1,5 +1,5 @@
 ## :wave: Hi, I'm Hleb
-18 y.o., currently studying Digital Marketing ar BSUIR, but main passion lies in **technology** and **development**.
+18 y.o., currently studying Digital Marketing at BSUIR.
 
 Right now, I’m exploring different technologies and building experiments, preparing a strong foundation for my future career in tech.
 ## Tech Stack
